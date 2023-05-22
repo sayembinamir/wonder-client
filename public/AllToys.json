@@ -1,0 +1,101 @@
+[
+  {
+    "service_id":"01",
+    "picture":"https://i.ibb.co/9Hckt1K/photo-1603253192413-b2e66e81a2e5.jpg",
+    "name": "Stuffed Lion Toy",
+    "price": 24.99,
+    "rating": 4.6,
+    "details": {
+       "description": "This cuddly lion toy is perfect for kids who love animals! It's made from soft plush material and features realistic details like a mane and tail.",
+       "specs": [
+          {"name": "Dimensions", "value": "12 x 10 x 6 inches"},
+          {"name": "Weight", "value": "0.5 pounds"},
+          {"name": "Color", "value": "Brown"}
+       ]
+    }
+ },
+ {
+  "service_id":"02",
+  "picture":"https://i.ibb.co/8NGKm3L/photo-1664924520071-f1c1ab17d77f.jpg" ,
+  "name": "Plush Elephant Toy",
+  "price": 19.99,
+  "rating": 4.3,
+  "details": {
+     "description": "This adorable elephant toy is sure to become a favorite of any child! It's made from super soft plush material and has cute little ears and a trunk.",
+     "specs": [
+        {"name": "Dimensions", "value": "8 x 6 x 4 inches"},
+        {"name": "Weight", "value": "0.3 pounds"},
+        {"name": "Color", "value": "Gray"}
+     ]
+  }
+},
+
+{
+  "service_id":"03",
+  "picture": "https://i.ibb.co/3hwb7zc/8.jpg",
+  "name": "Dinosaur Plush Toy",
+  "price": 29.99,
+  "rating": 4.9,
+  "details": {
+     "description": "This fierce dinosaur toy is perfect for any kid who loves prehistoric creatures! It's made from soft plush material and has bright green scales and teeth.",
+     "specs": [
+        {"name": "Dimensions", "value": "14 x 8 x 5 inches"},
+        {"name": "Weight", "value": "0.8 pounds"},
+        {"name": "Color", "value": "Green"}
+     ]
+  }
+},
+
+{
+  "service_id":"04",
+  "picture":"https://i.ibb.co/dLV5vGF/22093.jpg",
+  "name": "Giraffe Plush Toy",
+  "price": 16.99,
+  "rating": 4.2,
+  "details": {
+     "description": "This tall giraffe toy is sure to stand out in any toy collection! It's made from soft plush material and features brown spots and a long neck.",
+     "specs": [
+        {"name": "Dimensions", "value": "10 x 6 x 18 inches"},
+        {"name": "Weight", "value": "0.6 pounds"},
+        {"name": "Color", "value": "Yellow/Brown"}
+     ]
+  }
+},
+
+{
+  "service_id":"05",
+  "picture": "https://i.ibb.co/k4V5dGY/x519-mz5l-210629.jpg",
+  "name": "Kangaroo Plush Toy",
+  "price": 21.99,
+  "rating": 4.7,
+  "details": {
+     "description": "This cute kangaroo toy is perfect for kids who love animals from Down Under! It's made from soft plush material and has a little joey in its pouch.",
+     "specs": [
+        {"name": "Dimensions", "value": "12 x 8 x 6 inches"},
+        {"name": "Weight", "value": "0.5 pounds"},
+        {"name": "Color", "value": "Brown"}
+     ]
+  }
+},
+
+{
+  "service_id":"06",
+  "picture": "https://i.ibb.co/kHpcx6D/gqjh-ziy3-220819.jpg",
+  "name": "Shark Plush Toy",
+  "price": 27.99,
+  "rating": 4.4,
+  "details": {
+     "description": "This fearsome shark toy is perfect for kids who love ocean creatures! It's made from soft plush material and has sharp teeth and a fin on its back.",
+     "specs": [
+        {"name": "Dimensions", "value": "14 x 8 x 5 inches"},
+        {"name": "Weight", "value": "0.7 pounds"},
+        {"name": "Color", "value": "Gray/White"}
+     ]
+  }
+}
+
+
+       
+    ]
+  
+      

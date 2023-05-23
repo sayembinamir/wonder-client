@@ -9,7 +9,7 @@ Hosted in Firebase -> [wonder-world-toy](https://wonder-world-toy.web.app)
 * Shop By Category
 * All Animal Toys
 
-# All-Toys-Page:
+<!-- # All-Toys-Page: -->
 
 * Show All Toy Info
 * SellerName, ToyName, Sub-Category, Price, Available Quantity, Details Info in tabular format

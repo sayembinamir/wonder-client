@@ -6,7 +6,7 @@ Hosted in Firebase -> [wonder-world-toy](https://wonder-world-toy.web.app)
 
 * Banner: slider
 * Photo Gallery
-* Shop By Category
+<!-- * Shop By Category -->
 * All Animal Toys
 
 # All-Toys-Page:

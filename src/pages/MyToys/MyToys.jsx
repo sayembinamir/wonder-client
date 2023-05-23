@@ -7,7 +7,7 @@ import { AuthContext } from "../../providers/AuthProviders";
 
 const options = [
   { value: "Price-Ascending", label: "Ascending" },
-  // { value: "Price-Descending", label: "Descending" },
+  { value: "Price-Descending", label: "Descending" },
 ];
 
 const MyToys = () => {

@@ -1,8 +1,8 @@
 ## Live Link
 
 Hosted in Firebase -> [wonder-world-toy](https://wonder-world-toy.web.app)
-
-# Home-Page:
+<!-- 
+# Home-Page: -->
 
 * Banner: slider
 * Photo Gallery

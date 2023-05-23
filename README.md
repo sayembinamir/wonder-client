@@ -36,7 +36,7 @@ Hosted in Firebase -> [wonder-world-toy](https://wonder-world-toy.web.app)
 
 # Delete-Button:
 
-* Toy Delete from My Toys Page
+<!-- * Toy Delete from My Toys Page -->
 
 ## Resources & Credits
 
